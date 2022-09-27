@@ -11419,12 +11419,14 @@ font-size: x-large;
 }
 
 .my-beginnings{
+  padding: 0px 10px;
   max-width:650px;
   margin:auto;
 }
 
 
 .goals{
+  padding: 0px 10px;
   max-width:550px;
   margin:auto;
 }
