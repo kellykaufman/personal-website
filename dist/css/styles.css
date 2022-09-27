@@ -11410,7 +11410,6 @@ font-size: x-large;
 }
 
 
-
 .my-story{
   background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/background-2.jpg");
   text-align: center;
@@ -11420,13 +11419,13 @@ font-size: x-large;
 }
 
 .my-beginnings{
-  width:650px;
+  max-width:650px;
   margin:auto;
 }
 
 
 .goals{
-  width:550px;
+  max-width:550px;
   margin:auto;
 }
 
